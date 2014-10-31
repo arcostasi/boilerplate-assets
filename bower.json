@@ -35,6 +35,6 @@
     "/.*",
     "bower.json",
     "README.md",
-    "LICENSE.md",
+    "LICENSE.md"
   ]
 }
