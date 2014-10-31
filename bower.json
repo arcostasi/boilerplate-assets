@@ -1,0 +1,40 @@
+{
+  "name": "boilerplate-assets",
+  "version": "1.0.0",
+  "authors": [
+    "Anderson Costa <arcostasi@gmail.com>"
+  ],
+  "description": "Most popular HTML, CSS, and JS libraries and frameworks for frontend.",
+  "keywords": [
+    "jQuery",
+    "Bootstrap",
+    "AngularJS"
+  ],
+  "license": "BSD-3",
+  "homepage": "https://github.com/arcostasi/boilerplate-assets",
+  "main": [
+    "css/bootstrap-theme.css",
+    "css/bootstrap-theme.css.map",
+    "css/bootstrap-theme.min.css",
+    "css/bootstrap.css",
+    "css/bootstrap.css.map",
+    "css/bootstrap.min.css",
+    "js/jquery.js",
+    "js/jquery.min.js",
+    "js/jquery.min.map",
+    "js/bootstrap.js",
+    "js/bootstrap.min.js",
+    "js/npm.js",
+    "js/jquery.min.js",
+    "fonts/glyphicons-halflings-regular.eot",
+    "fonts/glyphicons-halflings-regular.svg",
+    "fonts/glyphicons-halflings-regular.ttf",
+    "fonts/glyphicons-halflings-regular.woff"
+  ],
+  "ignore": [
+    "/.*",
+    "bower.json",
+    "README.md",
+    "LICENSE.md",
+  ]
+}
